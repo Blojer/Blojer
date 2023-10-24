@@ -1,4 +1,4 @@
-### :woman_technologist: Обо мне :
+### :man_technologist: Обо мне :
 
 <!--
 **Blojer/Blojer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
